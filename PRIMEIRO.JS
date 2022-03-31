@@ -1,4 +1,4 @@
-// #7DaysOfCode - Lógica JS 1/7: Operações
+// #7DaysOfCode - Lógica JS 1/7: Operações SOLUÇÃO
 
 let numeroUm = 1 // Número
 let stringUm = '1' // Texto
